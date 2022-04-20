@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QrGeneratorDummy</string>
+    <string name="qr_code">qr_code</string>
+    <string name="get_qr">GET QR</string>
+</resources>
